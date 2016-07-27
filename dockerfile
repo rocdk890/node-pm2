@@ -11,5 +11,4 @@ ADD start /var/start
 CMD ["/var/start"]
 
 # Expose most common port for node apps
-EXPOSE 80 
-EXPOSE 443
+EXPOSE 3000
